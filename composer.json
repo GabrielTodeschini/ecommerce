@@ -1,9 +1,9 @@
 {
-    "name": "GabrielTodeschini/ecommerce",
+    "name": "gabriel-todeschini/ecommerce",
     "authors": [
         {
-            "name": "Hcode Treinamentos",
-            "email": "suporte@hcode.com.br"
+            "name": "Gabriel Todeschini",
+            "email": "gabriel.todeschini@bitcom.com.br"
         }
     ],
     "require": {
@@ -13,7 +13,7 @@
     },
     "autoload": {
         "psr-4": {
-            "": "vendor\\GabrielTodeschini\\php-classes\\src"
+            "Hcode\\": "vendor\\gabriel-todeschini\\php-classes\\src"
         }
     }
 }
